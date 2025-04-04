@@ -75,9 +75,5 @@ com.sasibhumaraju
 - Introduce an **email-based authentication system**.
 - Add **REST API endpoints** for integration with frontend applications.
 
-## License
-This project is open-source and available under the **MIT License**.
 
----
-Developed by **Sashi Kumar Raju Bhumaraju**
 
